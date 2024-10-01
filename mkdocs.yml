@@ -36,7 +36,7 @@ theme:
     - search.share
     - search.suggest
     #- toc.follow
-    # - toc.integrate
+    - toc.integrate
   palette:
     - scheme: slate
       primary: black
